@@ -1,2 +1,4 @@
-# Base-DCS
-DCS (Decentralized Credit Score System) deployed on Base testnet 
+# DCS (Based India)
+
+ Decentralized Credit Scoring System (DCS)
+ deployed on Base Testnet network
